@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="keyColor">#5d5d5d</color>
+    <color name="clipboardBG">#1e1e1e</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+</resources>
